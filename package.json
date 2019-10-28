@@ -1,0 +1,10 @@
+{
+  "name": "printerhub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aneeshnazar <aneesh_naz@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "cd printerhub_react && yarn start"
+  }
+}
