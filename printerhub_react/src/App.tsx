@@ -8,7 +8,7 @@ const App: React.FC = () => {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <Home compiler="typescript" framework="react" />
+        <Home compiler="typescript" framework="react" location="42 campus" />
       </header>
     </div>
   );
