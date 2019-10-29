@@ -5,6 +5,7 @@
   "author": "aneeshnazar <aneesh_naz@yahoo.com>",
   "license": "MIT",
   "scripts": {
-    "start": "cd printerhub_react && npm run start"
+    "start": "cd printerhub_react && npm run start",
+    "install": "cd printerhub_react && npm install"
   }
 }
